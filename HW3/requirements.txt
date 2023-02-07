@@ -1,0 +1,4 @@
+networkx
+tqdm
+numpy 
+otter-grader>=4.2.0
